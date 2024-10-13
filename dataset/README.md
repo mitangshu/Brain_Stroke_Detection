@@ -1,5 +1,8 @@
 # MRI Brain Image Dataset
 
+![ischemic mri images](../static/ischemic.png)
+![haemorrhagic mri images](../static/haemorrhagic.png)
+![normal mri images](../static/normal-mri.png)
 This README provides instructions for downloading and understanding the structure of our MRI Brain Image Dataset, which is hosted on Google Drive.
 
 ## Dataset Overview
